@@ -18,8 +18,8 @@ class Bittrex(object):
         if data:
             url += self.__args_string(data)
         response = requests.get(url)
+        print response
         json_response = json.loads(response.content)
-        print json_response
         return json_response['result']
 
     def get_markets(self):
@@ -40,6 +40,17 @@ class Bittrex(object):
     def get_order_book(self, data):
         return self.__query_public('/getorderbook', data)
 
+    def get_current_fair_px(self, data):
+        
+        try:
+	    print 'hey'
+            ob = self.get_order_book({'market': data['market'], 'type' : 'both'})
+            bids,asks = ob['buy'],ob['sell']
+            best_bid,best_ask = bids[0]['Rate'],asks[0]['Rate']
+            return (best_bid+best_ask) / 2.
+	except Exception:
+            return -1
+        
     def get_market_history(self, data):
         return self.__query_public('/getmarkethistory', data)
 
@@ -47,5 +58,5 @@ class Bittrex(object):
 if __name__ == '__main__':
     r = Bittrex()
     data = {'market':'BTC-LTC'}
-    s = r.get_market_history(data)
+    s = r.get_current_fair_px(data)
     print s
