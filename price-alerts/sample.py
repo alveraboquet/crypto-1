@@ -18,9 +18,14 @@ def post_to_db(values,time):
     conn.commit()
     conn.close()
 
-def sample_wrapper(time):
+def get_markets():
+
     market_metadata = pd.read_csv(BITTREX_MARKETS_FILE)
     markets = list(market_metadata['MarketName'])
+    return markets
+
+def sample_wrapper(time):
+    markets = get_markets()
     pool = mp.Pool(processes = 8)
     result = pool.map(sample, markets)
     post_to_db(result,time)
@@ -32,6 +37,7 @@ def sample(market_name):
 def main(args):
     time = ' '.join(args[1:3])
     time = time[:-2] + '00'
+    # fix time added to db; use exchange latency
     sample_wrapper(time) 
 
 if __name__ == '__main__':
