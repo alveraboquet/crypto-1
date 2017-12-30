@@ -1,0 +1,267 @@
+Notice,Created,MinTradeSize,IsSponsored,BaseCurrencyLong,MarketName,IsActive,LogoUrl,MarketCurrencyLong,BaseCurrency,MarketCurrency
+None,2014-02-13T00:00:00,0.02663019,None,Bitcoin,BTC-LTC,True,https://bittrexblobstorage.blob.core.windows.net/public/6defbc41-582d-47a6-bb2e-d0fa88663524.png,Litecoin,BTC,LTC
+None,2014-02-13T00:00:00,1111.11111111,None,Bitcoin,BTC-DOGE,True,https://bittrexblobstorage.blob.core.windows.net/public/a2b8eaee-2905-4478-a7a0-246f212c64c6.png,Dogecoin,BTC,DOGE
+None,2014-02-13T00:00:00,1.00036013,None,Bitcoin,BTC-VTC,True,https://bittrexblobstorage.blob.core.windows.net/public/1f0317bc-c44b-4ea4-8a89-b9a71f3349c8.png,Vertcoin,BTC,VTC
+None,2014-02-13T00:00:00,1.72425685,None,Bitcoin,BTC-PPC,True,https://bittrex.com/Content/img/symbols/BTC.png,Peercoin,BTC,PPC
+None,2014-02-13T00:00:00,20.9117524,None,Bitcoin,BTC-FTC,True,https://bittrexblobstorage.blob.core.windows.net/public/a69f83f0-112c-4d98-8e14-5e0e9be47404.png,Feathercoin,BTC,FTC
+None,2014-02-25T09:00:00,793.65079365,None,Bitcoin,BTC-RDD,True,https://bittrexblobstorage.blob.core.windows.net/public/4b7ce5a5-8c12-4741-86f2-3a48cb55c91a.png,ReddCoin,BTC,RDD
+None,2014-03-03T09:00:00,5.66187295,None,Bitcoin,BTC-NXT,True,https://bittrexblobstorage.blob.core.windows.net/public/443d492d-4f8b-4a2d-a613-1b37e4ab80cd.png,NXT,BTC,NXT
+None,2014-03-11T08:00:00,0.00595497,None,Bitcoin,BTC-DASH,True,https://bittrexblobstorage.blob.core.windows.net/public/49993d38-d344-4197-b449-c50c3cc13d47.png,Dash,BTC,DASH
+None,2014-03-11T08:00:00,23.85496183,None,Bitcoin,BTC-POT,True,https://bittrexblobstorage.blob.core.windows.net/public/149a1a49-3cca-461b-a8e4-8ea8409c27bd.png,PotCoin,BTC,POT
+None,2014-03-14T09:00:00,14.85001485,False,Bitcoin,BTC-BLK,True,https://bittrexblobstorage.blob.core.windows.net/public/c3409d42-a907-4764-ad03-118917761cc2.png,BlackCoin,BTC,BLK
+None,2014-12-24T00:00:00,7.41070105,None,Bitcoin,BTC-EMC2,True,https://bittrexblobstorage.blob.core.windows.net/public/aa92fc78-8100-4adb-bbb9-05fb1b7bd166.png,Einsteinium,BTC,EMC2
+None,2014-03-15T08:00:00,427.35042735,None,Bitcoin,BTC-XMY,True,https://bittrexblobstorage.blob.core.windows.net/public/bd1eb9c2-9bb7-4c95-b4b8-037a4419ee67.png,Myriad,BTC,XMY
+None,2014-03-16T22:00:00,5.41594454,None,Bitcoin,BTC-AUR,True,https://bittrexblobstorage.blob.core.windows.net/public/8662a354-f45c-4dec-be5b-8038ca47fd96.png,AuroraCoin,BTC,AUR
+None,2014-03-20T20:00:00,28.29654782,None,Bitcoin,BTC-EFL,True,https://bittrexblobstorage.blob.core.windows.net/public/4d984e89-67d8-4f36-b943-5365438952cb.png,ElectronicGulden,BTC,EFL
+None,2014-03-22T16:00:00,33.73819163,None,Bitcoin,BTC-GLD,True,https://bittrexblobstorage.blob.core.windows.net/public/8042e8a5-e8fc-4a89-8694-d61d5f500aac.png,GoldCoin,BTC,GLD
+None,2014-03-23T06:00:00,14.64986815,None,Bitcoin,BTC-SLR,True,https://bittrexblobstorage.blob.core.windows.net/public/33e931bb-b715-4075-bf6f-02369e9f8439.png,SolarCoin,BTC,SLR
+None,2014-03-27T18:00:00,80.77544426,None,Bitcoin,BTC-PTC,True,https://bittrexblobstorage.blob.core.windows.net/public/e9717112-e5a9-429c-a8b8-621cdb3e3714.png,PesetaCoin ,BTC,PTC
+None,2014-04-03T05:00:00,3.66622672,None,Bitcoin,BTC-GRS,True,https://bittrexblobstorage.blob.core.windows.net/public/3b79133e-b65e-497c-b65a-f254511eedc9.png,Groestlcoin,BTC,GRS
+None,2014-04-04T22:00:00,42.12299916,False,Bitcoin,BTC-NLG,True,https://bittrexblobstorage.blob.core.windows.net/public/55cf6802-c3d8-4b43-85b2-bb672c0c6211.png,Gulden,BTC,NLG
+None,2014-04-05T08:00:00,7.73874013,False,Bitcoin,BTC-RBY,True,https://bittrexblobstorage.blob.core.windows.net/public/134cdb3a-a4dc-4557-a51a-209d3b3ba8c0.png,RubyCoin,BTC,RBY
+None,2014-04-14T00:00:00,33.92130258,None,Bitcoin,BTC-XWC,True,https://bittrexblobstorage.blob.core.windows.net/public/dd94ac21-5ddf-48cf-8c5a-9a52f6292d01.png,WhiteCoin,BTC,XWC
+None,2014-04-18T22:00:00,0.63456608,None,Bitcoin,BTC-MONA,True,https://bittrexblobstorage.blob.core.windows.net/public/db5aa488-25ea-4b4c-a6b0-377a569c06d2.png,MonaCoin,BTC,MONA
+None,2014-04-29T21:00:00,15.81777918,None,Bitcoin,BTC-THC,True,https://bittrexblobstorage.blob.core.windows.net/public/e9feeea9-b6fd-4521-b446-1c5e4520db31.png,HempCoin,BTC,THC
+None,2014-05-04T00:00:00,62.03473945,None,Bitcoin,BTC-ENRG,True,https://bittrexblobstorage.blob.core.windows.net/public/f339a246-0e20-4eda-be4d-4c5a7fcc5e59.png,EnergyCoin,BTC,ENRG
+None,2014-05-10T17:00:00,9.936407,None,Bitcoin,BTC-ERC,True,https://bittrexblobstorage.blob.core.windows.net/public/46212518-56cd-4510-a9ee-0d12631127ce.png,EuropeCoin,BTC,ERC
+None,2014-05-13T07:00:00,9.03342367,None,Bitcoin,BTC-VRC,True,https://bittrexblobstorage.blob.core.windows.net/public/5b7a3d31-88f0-4533-aa87-29eb558f79a8.png,VeriCoin,BTC,VRC
+None,2014-05-13T09:00:00,14.28571429,None,Bitcoin,BTC-CURE,True,https://bittrexblobstorage.blob.core.windows.net/public/5168cfb6-ad9a-4b63-b9dd-cf33cbf52c8e.png,CureCoin,BTC,CURE
+None,2014-06-04T07:38:39.24,0.0206697,None,Bitcoin,BTC-XMR,True,https://bittrexblobstorage.blob.core.windows.net/public/efcda24e-c6c3-4029-982c-15af2915fb08.png,Monero,BTC,XMR
+None,2014-06-04T08:53:18.563,0.40974203,None,Bitcoin,BTC-CLOAK,True,https://bittrexblobstorage.blob.core.windows.net/public/224f0241-dd5b-4675-8f64-aff9534727a5.png,CloakCoin,BTC,CLOAK
+None,2014-06-14T07:09:15.327,58.34305718,None,Bitcoin,BTC-START,True,https://bittrexblobstorage.blob.core.windows.net/public/2b596cad-231b-4252-8b50-0a5895a8a6b4.png,StartCoin,BTC,START
+None,2014-06-17T05:46:29.303,1.39400022,None,Bitcoin,BTC-KORE,True,https://bittrexblobstorage.blob.core.windows.net/public/42b8d2f5-bbba-43c4-a439-548e42928df0.png,Kore,BTC,KORE
+None,2014-06-21T18:37:57.64,581.39534884,None,Bitcoin,BTC-XDN,True,https://bittrex.com/Content/img/symbols/BTC.png,DigitalNote,BTC,XDN
+None,2014-07-07T05:46:18.71,32.27888961,None,Bitcoin,BTC-TRUST,True,https://bittrexblobstorage.blob.core.windows.net/public/d3014256-c08a-47e9-aaca-84d7e33f0d20.png,TrustPlus,BTC,TRUST
+None,2014-07-08T03:37:28.39,3.35818389,None,Bitcoin,BTC-NAV,True,https://bittrexblobstorage.blob.core.windows.net/public/1602ecf1-fc60-42b2-afa6-3e48dbe9b884.png,NAVCoin,BTC,NAV
+None,2014-07-09T20:33:00.59,6.36942675,None,Bitcoin,BTC-XST,True,https://bittrexblobstorage.blob.core.windows.net/public/47b7ec3d-4271-42ce-af16-5de4dee4b2a5.png,StealthCoin,BTC,XST
+None,2014-07-14T06:05:04.567,0.02000801,None,Bitcoin,BTC-BTCD,True,https://bittrexblobstorage.blob.core.windows.net/public/c705ff3a-42f4-43f8-a78d-a592725fe3c7.png,BitcoinDark,BTC,BTCD
+None,2014-07-18T00:20:00.393,2.352277,None,Bitcoin,BTC-VIA,True,https://bittrexblobstorage.blob.core.windows.net/public/1ac53fb8-3173-46a8-af74-55029492dda4.png,ViaCoin ,BTC,VIA
+None,2014-07-29T07:41:09.4,158.73015873,False,Bitcoin,BTC-PINK,True,https://bittrexblobstorage.blob.core.windows.net/public/bf810adc-114d-4809-a3a7-7a5f648aab52.png,PinkCoin,BTC,PINK
+None,2014-07-29T16:57:43.787,2.80504909,None,Bitcoin,BTC-IOC,True,https://bittrexblobstorage.blob.core.windows.net/public/080896ac-8a2c-4826-b708-92a3db60a6de.png,I/OCoin,BTC,IOC
+None,2014-08-10T06:48:44.83,76.68711656,None,Bitcoin,BTC-CANN,True,https://bittrexblobstorage.blob.core.windows.net/public/78d826b0-0df4-4c6c-a99d-ac1673562cd8.png,CannabisCoin,BTC,CANN
+None,2014-08-16T19:57:48.823,13.24503311,None,Bitcoin,BTC-SYS,True,https://bittrexblobstorage.blob.core.windows.net/public/131b4cd3-2bbd-4a11-a5ec-04e3acbfc6db.png,SysCoin,BTC,SYS
+None,2014-08-20T00:06:59.63,1.34509846,False,Bitcoin,BTC-NEOS,True,https://bittrexblobstorage.blob.core.windows.net/public/4794e73b-1360-43b6-9e41-ffc7c37e1195.png,NeosCoin,BTC,NEOS
+None,2014-08-20T07:09:57.207,165.01650165,None,Bitcoin,BTC-DGB,True,https://bittrexblobstorage.blob.core.windows.net/public/f71e4e1a-9249-47a0-b4d0-53afa08ccbc3.png,Digibyte,BTC,DGB
+None,2014-09-16T07:41:56.047,125.94458438,None,Bitcoin,BTC-BURST,True,https://bittrex.com/Content/img/symbols/BTC.png,BURSTCoin,BTC,BURST
+None,2014-09-28T20:33:27.633,3.71333086,False,Bitcoin,BTC-EXCL,True,https://bittrexblobstorage.blob.core.windows.net/public/44b352cd-c08a-48cd-b602-2b4f8fc5feb1.png,ExclusiveCoin,BTC,EXCL
+None,2014-10-03T19:16:23.143,4.21194508,None,Bitcoin,BTC-SWIFT,True,https://bittrexblobstorage.blob.core.windows.net/public/765542e8-cdd1-4831-9e7c-3921fd9981b7.png,Bitswift,BTC,SWIFT
+None,2014-10-17T19:09:32.6,51.12474438,None,Bitcoin,BTC-DOPE,True,https://bittrexblobstorage.blob.core.windows.net/public/fa2cf328-cd0f-4ee3-b6df-3b9cfd721dde.png,DopeCoin,BTC,DOPE
+None,2014-10-29T06:45:03.97,0.2078907,False,Bitcoin,BTC-BLOCK,True,https://bittrexblobstorage.blob.core.windows.net/public/99f30490-dd19-4eac-b7ff-97101d855dc2.png,BlockNet,BTC,BLOCK
+None,2014-10-31T01:43:25.743,403.22580645,False,Bitcoin,BTC-ABY,True,https://bittrexblobstorage.blob.core.windows.net/public/2570db52-0a6d-4df7-94f7-5e3da3b34f47.png,ArtByte,BTC,ABY
+None,2014-11-03T19:02:45.96,8.48896435,False,Bitcoin,BTC-BYC,True,https://bittrexblobstorage.blob.core.windows.net/public/f131fa9a-7347-4fb3-a675-dc9d808d1bce.png,Bytecent,BTC,BYC
+None,2014-11-10T06:25:07.533,14.71020888,None,Bitcoin,BTC-XMG,True,https://bittrexblobstorage.blob.core.windows.net/public/1a8c9737-5ea7-48d2-97ec-4d4cda472023.png,Magi,BTC,XMG
+None,2014-11-13T20:20:21.443,2.84042493,None,Bitcoin,BTC-BLITZ,True,https://bittrexblobstorage.blob.core.windows.net/public/2f43325b-6fa9-4042-9fbc-9731a7c9109d.png,Blitzcash,BTC,BLITZ
+None,2014-11-18T17:34:21.083,37.06449222,None,Bitcoin,BTC-BAY,True,https://bittrexblobstorage.blob.core.windows.net/public/11a11ba1-2476-496e-a567-e78b158126d9.png,BitBay,BTC,BAY
+None,2014-12-12T19:51:07.703,6.65424541,False,Bitcoin,BTC-FAIR,True,https://bittrexblobstorage.blob.core.windows.net/public/2caaa6c9-e111-4ffb-b781-933b8c590fc4.png,FairCoin,BTC,FAIR
+None,2014-12-19T02:33:07.747,17.85714286,None,Bitcoin,BTC-SPR,True,https://bittrexblobstorage.blob.core.windows.net/public/9a7c3052-85b5-4528-a72d-b32ae25c7657.png,SpreadCoin,BTC,SPR
+None,2014-12-19T02:33:10.943,18.41620626,None,Bitcoin,BTC-VTR,True,https://bittrexblobstorage.blob.core.windows.net/public/bf696581-0450-40a7-bd56-f4bbc1fa5317.png,vTorrent,BTC,VTR
+None,2014-12-22T19:30:27.45,6.59108885,None,Bitcoin,BTC-XRP,True,https://bittrexblobstorage.blob.core.windows.net/public/8101e36e-bfce-48a9-a7a6-368b6e9452dd.png,Ripple,BTC,XRP
+None,2015-04-08T04:09:53.013,2.1066824,None,Bitcoin,BTC-GAME,True,https://bittrexblobstorage.blob.core.windows.net/public/1952d8bb-1295-4cd7-bc37-7a2568bbcb1e.png,GameCredits,BTC,GAME
+None,2015-01-22T19:11:45.903,413.2231405,None,Bitcoin,BTC-COVAL,True,https://bittrexblobstorage.blob.core.windows.net/public/85cdc262-1870-4878-8562-43cc56faba2b.png,Circuits of Value,BTC,COVAL
+None,2015-01-25T03:00:35.143,2.08550574,False,Bitcoin,BTC-NXS,True,https://bittrexblobstorage.blob.core.windows.net/public/78ae1c0d-55c7-4375-9855-d6bd27ee7672.png,Nexus,BTC,NXS
+None,2015-02-14T04:20:41,0.23753985,False,Bitcoin,BTC-XCP,True,https://bittrexblobstorage.blob.core.windows.net/public/462417ed-c7cb-4663-b878-7e87231314a5.png,Counterparty,BTC,XCP
+None,2015-02-15T23:07:32.777,684.93150685,None,Bitcoin,BTC-BITB,True,https://bittrexblobstorage.blob.core.windows.net/public/1237b0c9-2373-4545-a342-d3fdb4fbe8ed.png,BitBean,BTC,BITB
+None,2015-02-21T03:29:43.267,4.40140845,None,Bitcoin,BTC-GEO,True,https://bittrexblobstorage.blob.core.windows.net/public/262c99e6-3f0d-4dbf-90b4-167dfa7f0d67.png,GeoCoin,BTC,GEO
+None,2015-02-23T23:01:53.92,142.85714286,None,Bitcoin,BTC-FLDC,True,https://bittrex.com/Content/img/symbols/BTC.png,FoldingCoin,BTC,FLDC
+None,2015-02-27T19:57:02.82,78.6163522,None,Bitcoin,BTC-GRC,True,https://bittrexblobstorage.blob.core.windows.net/public/189514d6-10bf-4c3f-81ab-d24f16bc806f.png,GridCoin,BTC,GRC
+None,2015-03-11T05:43:30.193,38.08073115,None,Bitcoin,BTC-FLO,True,https://bittrexblobstorage.blob.core.windows.net/public/57acadf2-ee77-44a3-b879-be95aae0e9fa.png,Florin,BTC,FLO
+None,2015-04-08T03:57:37.33,6.69612964,False,Bitcoin,BTC-NBT,True,https://bittrexblobstorage.blob.core.windows.net/public/cf36f87c-5841-452f-8968-ba183ae5d833.png,Nubits,BTC,NBT
+None,2015-04-09T17:31:31.113,29.94011976,False,Bitcoin,BTC-MUE,True,https://bittrexblobstorage.blob.core.windows.net/public/74855e5d-b489-44da-a2a8-2d3a1f05dabd.png,MonetaryUnit,BTC,MUE
+None,2015-04-10T21:06:00.043,8.37240455,None,Bitcoin,BTC-XEM,True,https://bittrex.com/Content/img/symbols/BTC.png,NewEconomyMovement,BTC,XEM
+None,2015-04-18T22:04:25.183,0.82881628,None,Bitcoin,BTC-CLAM,True,https://bittrexblobstorage.blob.core.windows.net/public/b63db8c7-892b-486b-9802-203b7794ff51.png,CLAMs,BTC,CLAM
+None,2015-05-01T17:31:24.97,0.43400517,None,Bitcoin,BTC-DMD,True,https://bittrexblobstorage.blob.core.windows.net/public/5dd68d85-f24c-42ed-b25a-908bab7d753b.png,Diamond,BTC,DMD
+Market Offline - Preparing for swap,2015-05-05T22:38:44.963,0.34006897,False,Bitcoin,BTC-GAM,False,https://bittrexblobstorage.blob.core.windows.net/public/6695481a-1294-4bf8-b2f6-bd182dd698fa.png,Gambit,BTC,GAM
+None,2015-05-18T22:45:47.093,1.60323212,None,Bitcoin,BTC-SPHR,True,https://bittrexblobstorage.blob.core.windows.net/public/41cc33db-085a-4521-a420-f9d9775c1131.png,Sphere,BTC,SPHR
+None,2015-05-30T19:26:37.523,14.90312966,None,Bitcoin,BTC-OK,True,https://bittrexblobstorage.blob.core.windows.net/public/95a3b2d2-2f8b-44d9-9c4e-d9140d51b87d.png,OkCash,BTC,OK
+None,2015-06-03T06:27:04.623,3.45065562,None,Bitcoin,BTC-SNRG,True,https://bittrexblobstorage.blob.core.windows.net/public/2530116b-7eea-41b0-b57c-f57c7c41f2c0.png,Synergy,BTC,SNRG
+None,2015-06-03T06:31:14.35,6.66666667,None,Bitcoin,BTC-PKB,True,https://bittrexblobstorage.blob.core.windows.net/public/d7711420-de59-4c1f-b4da-e4eb4846d56f.png,ParkByte,BTC,PKB
+None,2015-07-25T06:30:32.53,12.46571927,None,Bitcoin,BTC-CPC,True,https://bittrexblobstorage.blob.core.windows.net/public/4c6e9123-ac18-47ff-8cbb-7131bc311c85.png,CapriCoin,BTC,CPC
+None,2015-07-31T00:50:47.11,2.06177065,None,Bitcoin,BTC-AEON,True,https://bittrexblobstorage.blob.core.windows.net/public/efc27a0f-e2cb-47a6-819c-18b96d8868b1.png,Aeon,BTC,AEON
+None,2015-08-14T09:02:24.817,0.01044496,None,Bitcoin,BTC-ETH,True,https://bittrexblobstorage.blob.core.windows.net/public/7e5638ef-8ca0-404d-b61e-9d41c2e20dd9.png,Ethereum,BTC,ETH
+None,2015-08-24T00:25:28.933,33.4001336,False,Bitcoin,BTC-GCR,True,https://bittrexblobstorage.blob.core.windows.net/public/34491209-c13b-49f4-8778-50c2f1d79a0d.png,GlobalCurrencyReserve,BTC,GCR
+None,2015-09-02T08:02:54.3,2.56871307,None,Bitcoin,BTC-TX,True,https://bittrexblobstorage.blob.core.windows.net/public/9c472781-4ead-40be-b422-568b36a6d5b5.png,TransferCoin,BTC,TX
+None,2015-09-10T05:28:20.787,9.47687642,None,Bitcoin,BTC-BCY,True,https://bittrex.com/Content/img/symbols/BTC.png,BitCrystals,BTC,BCY
+None,2015-09-16T17:10:15.253,2.35106033,None,Bitcoin,BTC-EXP,True,https://bittrexblobstorage.blob.core.windows.net/public/74b6ee31-194d-48ca-a770-2f881f11dd77.png,Expanse,BTC,EXP
+None,2015-10-03T20:41:41.403,7.06214689,None,Bitcoin,BTC-INFX,True,https://bittrexblobstorage.blob.core.windows.net/public/2b2e0724-bb2e-4fda-9234-cf3d99166a20.png,InfluxCoin,BTC,INFX
+None,2015-11-03T19:13:33.197,0.1073535,None,Bitcoin,BTC-OMNI,True,https://bittrex.com/Content/img/symbols/BTC.png,OMNI,BTC,OMNI
+None,2015-11-03T19:13:55.18,15.40357363,None,Bitcoin,BTC-AMP,True,https://bittrex.com/Content/img/symbols/BTC.png,AMP,BTC,AMP
+None,2015-11-10T00:53:59.643,2.3092555,None,Bitcoin,BTC-AGRS,True,https://bittrexblobstorage.blob.core.windows.net/public/7a06fac6-2ff6-4327-9e0f-1c0baf4d0c74.png,IDNI Agoras,BTC,AGRS
+None,2015-11-17T20:06:44.92,31.70577045,None,Bitcoin,BTC-XLM,True,https://bittrexblobstorage.blob.core.windows.net/public/c41db2ef-2635-4438-a1c1-0a680c8857e1.png,Lumen,BTC,XLM
+None,2015-12-11T06:31:40.633,0.00074074,None,Tether,USDT-BTC,True,https://bittrex.com/Content/img/symbols/BTC.png,Bitcoin,USDT,BTC
+None,2015-12-18T00:30:10.31,2.7700831,None,Bitcoin,BTC-CLUB,True,https://bittrexblobstorage.blob.core.windows.net/public/43aac470-0ab8-41db-a346-f23e00c1fd01.png,ClubCoin,BTC,CLUB
+None,2015-12-30T04:21:47.31,24.43792766,None,Bitcoin,BTC-VOX,True,https://bittrexblobstorage.blob.core.windows.net/public/a04e7755-66e9-4d20-a3c8-6332022201fc.png,Voxels,BTC,VOX
+None,2016-01-06T05:28:04.553,3.87506781,None,Bitcoin,BTC-EMC,True,https://bittrexblobstorage.blob.core.windows.net/public/449483b1-9832-4273-9d4d-dd8beb5e3f36.png,EmerCoin,BTC,EMC
+None,2016-01-09T03:47:07.803,0.21093308,None,Bitcoin,BTC-FCT,True,https://bittrexblobstorage.blob.core.windows.net/public/2478893a-5e5d-469e-81bd-e351195858d9.png,Factom,BTC,FCT
+None,2016-01-18T20:38:22.707,10.20408163,None,Bitcoin,BTC-MAID,True,https://bittrexblobstorage.blob.core.windows.net/public/1b118fed-9190-497a-a8a5-7f6eb66fe236.png,MaidSafe,BTC,MAID
+None,2016-01-18T21:01:43.837,15.97444089,None,Bitcoin,BTC-EGC,True,https://bittrexblobstorage.blob.core.windows.net/public/beaf8ee0-4841-4f3b-a834-9cbb6543d567.png,EverGreenCoin,BTC,EGC
+None,2016-01-20T22:24:04.65,0.24235609,None,Bitcoin,BTC-SLS,True,https://bittrexblobstorage.blob.core.windows.net/public/266cb245-641c-415b-a4c3-3a33cdfc34d1.png,SaluS,BTC,SLS
+None,2016-01-26T23:22:16.193,0.86025945,None,Bitcoin,BTC-RADS,True,https://bittrexblobstorage.blob.core.windows.net/public/259f6efd-9b21-43cf-9c6b-8f67b94ca092.png,Radium,BTC,RADS
+None,2016-02-09T21:06:51.577,0.0891094,None,Bitcoin,BTC-DCR,True,https://bittrexblobstorage.blob.core.windows.net/public/5b187f7e-4da7-49bf-bc5b-9f5b616a326e.png,Decred,BTC,DCR
+None,2016-02-17T00:54:23.677,6.07828835,False,Bitcoin,BTC-BSD,True,https://bittrexblobstorage.blob.core.windows.net/public/a7c8bcd5-9d9f-4f53-80bf-6ad2df6e8f8a.png,BitSend,BTC,BSD
+None,2016-02-17T22:42:03.61,54.64480874,False,Bitcoin,BTC-XVG,True,https://bittrexblobstorage.blob.core.windows.net/public/edcdc903-45b4-4089-8549-e303c564cd1b.png,Verge,BTC,XVG
+None,2016-03-02T20:45:37.987,0.83333333,None,Bitcoin,BTC-PIVX,True,https://bittrexblobstorage.blob.core.windows.net/public/abd1b000-2421-4915-9eca-6ffccf3a426d.png,Pivx,BTC,PIVX
+None,2016-03-12T19:37:38.863,6.22665006,None,Bitcoin,BTC-XVC,True,https://bittrexblobstorage.blob.core.windows.net/public/8372a426-2d7d-4a49-a0b5-355c090c6694.png,Vcash,BTC,XVC
+None,2016-04-01T18:24:07.207,11.40510949,None,Bitcoin,BTC-MEME,True,https://bittrexblobstorage.blob.core.windows.net/public/56e0e7cf-5ecd-4e2c-9463-cc606b9168b3.png,Memetic,BTC,MEME
+None,2016-04-17T01:22:13.35,2.18684395,False,Bitcoin,BTC-STEEM,True,https://bittrexblobstorage.blob.core.windows.net/public/5715c9e7-5eca-44dc-a3ed-ed843b8d6e95.png,STEEM,BTC,STEEM
+None,2016-05-16T06:44:15.287,476.19047619,False,Bitcoin,BTC-2GIVE,True,https://bittrexblobstorage.blob.core.windows.net/public/a6a2227e-55fd-412d-844b-6a7866411e34.png,2GIVE,BTC,2GIVE
+None,2016-05-24T18:49:52.77,0.35896847,False,Bitcoin,BTC-LSK,True,https://bittrexblobstorage.blob.core.windows.net/public/ae0a977a-ce1f-49bd-9023-e3a9ad3ca174.png,Lisk,BTC,LSK
+None,2016-06-02T04:39:35.21,36.98224852,None,Bitcoin,BTC-PDC,True,https://bittrex.com/Content/img/symbols/BTC.png,Project Decorum,BTC,PDC
+None,2016-06-13T02:27:33.34,18.1356547,None,Bitcoin,BTC-BRK,True,https://bittrexblobstorage.blob.core.windows.net/public/10d49588-2cff-4a8e-88dd-136d9d34c292.png,Breakout,BTC,BRK
+None,2016-06-14T16:25:12.063,0.04901961,None,Bitcoin,BTC-DGD,True,https://bittrexblobstorage.blob.core.windows.net/public/dcb250f9-35d7-41da-84e3-7f272bd34278.png,DigixDAO,BTC,DGD
+None,2016-06-17T18:51:39.087,0.09302326,None,Ethereum,ETH-DGD,True,https://bittrexblobstorage.blob.core.windows.net/public/dcb250f9-35d7-41da-84e3-7f272bd34278.png,Digix DAO,ETH,DGD
+None,2016-06-19T15:46:31.167,0.5528894,None,Bitcoin,BTC-WAVES,True,https://bittrexblobstorage.blob.core.windows.net/public/50dddb89-d30b-4515-b91b-5842f9dbe1fd.png,Waves,BTC,WAVES
+None,2016-06-24T17:00:00.043,12.7064803,False,Bitcoin,BTC-RISE,True,https://bittrexblobstorage.blob.core.windows.net/public/3265e87c-bbfd-4c32-b517-e53d699c698b.png,Rise,BTC,RISE
+None,2016-07-05T21:50:07.81,12.65822785,None,Bitcoin,BTC-LBC,True,https://bittrexblobstorage.blob.core.windows.net/public/34cd79d9-22f3-4cfc-847c-64c0c8bcd115.png,LBRY Credits,BTC,LBC
+None,2016-07-09T19:02:08.943,0.7473283,None,Bitcoin,BTC-SBD,True,https://i.imgur.com/kJDHkhv.png,SteemDollars,BTC,SBD
+None,2016-07-10T21:25:05.127,6.42673522,None,Bitcoin,BTC-BRX,True,https://bittrexblobstorage.blob.core.windows.net/public/485da401-9286-4c80-a2a6-83c7189b3315.png,Breakout Stake,BTC,BRX
+None,2016-07-26T18:10:22.82,0.23809524,None,Bitcoin,BTC-ETC,True,https://bittrexblobstorage.blob.core.windows.net/public/efc96992-1993-4a91-84cf-c04fea919788.png,Ethereum Classic,BTC,ETC
+None,2016-07-28T21:45:59.05,0.45870813,None,Ethereum,ETH-ETC,True,https://bittrexblobstorage.blob.core.windows.net/public/efc96992-1993-4a91-84cf-c04fea919788.png,Ethereum Classic,ETH,ETC
+None,2016-08-10T23:26:39.657,0.69027404,None,Bitcoin,BTC-STRAT,True,https://bittrexblobstorage.blob.core.windows.net/public/74083684-8817-4e0e-9107-7fcc129f4e73.png,Stratis,BTC,STRAT
+None,2016-08-24T21:39:28.357,5.66893424,None,Bitcoin,BTC-UNB,True,https://i.imgur.com/LULMV74.png,UnbreakableCoin,BTC,UNB
+None,2016-08-25T21:23:15.27,15.03307276,None,Bitcoin,BTC-SYNX,True,https://bittrexblobstorage.blob.core.windows.net/public/360d215f-593a-4477-9881-19aad0575759.png,Syndicate,BTC,SYNX
+None,2016-09-08T05:59:08.183,4.7187618,None,Bitcoin,BTC-TRIG,True,https://bittrexblobstorage.blob.core.windows.net/public/790ce72b-4877-4ccf-b642-dd156b9f712f.png,TRIG Token,BTC,TRIG
+None,2016-09-15T15:47:38.92,34.0599455,None,Bitcoin,BTC-EBST,True,https://bittrex.com/Content/img/symbols/BTC.png,eBoost,BTC,EBST
+None,2016-09-16T04:52:17.637,1.65793488,None,Bitcoin,BTC-VRM,True,https://bittrexblobstorage.blob.core.windows.net/public/859ca6d4-677b-4cae-82af-b533c5f327db.png,Verium,BTC,VRM
+None,2016-09-23T07:10:11.78,25.30364372,None,Bitcoin,BTC-SEQ,True,https://bittrexblobstorage.blob.core.windows.net/public/472a3136-87e6-4650-844a-391618b07a0d.png,Sequence,BTC,SEQ
+None,2016-10-04T15:45:37.14,0.10683761,None,Bitcoin,BTC-REP,True,https://bittrexblobstorage.blob.core.windows.net/public/cb9a7857-2c08-44e4-b6a9-c8248bb5a927.png,Augur,BTC,REP
+None,2016-10-11T19:48:35.573,1.19337439,None,Bitcoin,BTC-SHIFT,True,https://bittrexblobstorage.blob.core.windows.net/public/bf2fd35f-ed49-44fd-a45c-5a5413ec51b3.png,Shift,BTC,SHIFT
+None,2016-10-13T18:59:37.407,6.40122904,None,Bitcoin,BTC-ARDR,True,https://bittrexblobstorage.blob.core.windows.net/public/8e029f78-40b1-4cdc-89af-55dd4d2d30dd.png,Ardor,BTC,ARDR
+None,2016-10-20T04:48:30.387,0.09391753,None,Bitcoin,BTC-XZC,True,https://bittrexblobstorage.blob.core.windows.net/public/3f69474d-8e7b-4164-9ad8-2fe8ef3fb5e0.png,ZCoin,BTC,XZC
+None,2016-10-26T01:28:31.96,0.11958833,None,Bitcoin,BTC-NEO,True,https://bittrexblobstorage.blob.core.windows.net/public/ed823972-8cfd-4f1f-a91d-f638ba20bf02.png,Neo,BTC,NEO
+None,2016-10-28T17:13:10.833,0.0133369,None,Bitcoin,BTC-ZEC,True,https://bittrexblobstorage.blob.core.windows.net/public/db51f5f5-3728-4e12-b32f-ea3f4825038b.png,Zcash,BTC,ZEC
+None,2016-11-15T20:29:59.73,1.7456272,None,Bitcoin,BTC-ZCL,True,https://bittrexblobstorage.blob.core.windows.net/public/7cf275d8-b553-4244-8dbf-42c328f44e93.png,Zclassic,BTC,ZCL
+None,2016-12-22T00:54:23.477,1.19485733,None,Bitcoin,BTC-IOP,True,https://bittrexblobstorage.blob.core.windows.net/public/c8a454c7-b79b-4913-afa8-994561997be1.png,Internet Of People,BTC,IOP
+None,2017-01-19T23:23:12.41,32.05128205,None,Bitcoin,BTC-GOLOS,True,https://bittrexblobstorage.blob.core.windows.net/public/f8023b03-7018-4f55-a00f-2a3c070eaec5.png,Golos,BTC,GOLOS
+None,2017-02-08T17:00:59.02,2.08229219,None,Bitcoin,BTC-UBQ,True,https://bittrexblobstorage.blob.core.windows.net/public/ab54ae22-05bc-4f49-9aa1-2406628f46db.png,Ubiq,BTC,UBQ
+None,2017-02-11T23:04:01.853,0.60801362,None,Bitcoin,BTC-KMD,True,https://bittrexblobstorage.blob.core.windows.net/public/ec8df0e5-f320-44c5-abc4-116bacc31336.png,Komodo,BTC,KMD
+None,2017-02-12T00:38:21.023,34.0367597,None,Bitcoin,BTC-GBG,True,https://bittrex.com/Content/img/symbols/BTC.png,GBG,BTC,GBG
+None,2017-02-18T22:34:49.373,2.45098039,None,Bitcoin,BTC-SIB,True,https://bittrexblobstorage.blob.core.windows.net/public/3d9cf994-cb34-4c5d-a67c-5237474e07ff.png,Siberian Chervonets,BTC,SIB
+None,2017-02-18T23:41:17.04,3.066544,None,Bitcoin,BTC-ION,True,https://bittrexblobstorage.blob.core.windows.net/public/7330bf34-9edc-41f4-96d8-276d85ee8ebd.png,Ion,BTC,ION
+None,2017-02-18T23:55:53.153,87.71929825,None,Bitcoin,BTC-LMC,True,https://bittrexblobstorage.blob.core.windows.net/public/2094f9e1-2ec0-46e5-8c03-a43b153b7f78.png,Lomocoin,BTC,LMC
+None,2017-03-05T19:30:16.853,26.52519894,None,Bitcoin,BTC-QWARK,True,https://bittrexblobstorage.blob.core.windows.net/public/5f132148-eb28-4a59-a5d9-b2eeda739f62.png,Qwark,BTC,QWARK
+None,2017-03-06T21:10:15.663,2.524615,None,Bitcoin,BTC-CRW,True,https://bittrexblobstorage.blob.core.windows.net/public/e855c4a3-4974-4899-855e-9c98a16b760c.png,Crown,BTC,CRW
+None,2017-03-08T22:32:26.03,2.87323296,None,Bitcoin,BTC-SWT,True,https://bittrexblobstorage.blob.core.windows.net/public/d541ffab-b637-4d36-b3a1-a46bb2e8b7f9.png,Swarm City Token,BTC,SWT
+None,2017-03-15T19:30:56.167,0.0595829,None,Bitcoin,BTC-MLN,True,https://bittrexblobstorage.blob.core.windows.net/public/a9a8d95a-41c1-4350-81a0-bc931feb2469.png,Melon,BTC,MLN
+None,2017-03-21T18:11:29.347,1.13633781,None,Bitcoin,BTC-ARK,True,https://bittrexblobstorage.blob.core.windows.net/public/5268be8b-0958-47e1-aa3d-03235265711c.png,Ark,BTC,ARK
+None,2017-03-23T00:10:19.403,1.87610221,None,Bitcoin,BTC-DYN,True,https://bittrexblobstorage.blob.core.windows.net/public/97ec8a98-71e1-4fd3-b00e-13e3a5d4a9ad.png,Dynamic,BTC,DYN
+None,2017-03-23T00:48:15.94,1.78788529,None,Bitcoin,BTC-TKS,True,https://bittrexblobstorage.blob.core.windows.net/public/9cecc1fb-0e86-4e38-adee-88283a8449aa.png,Tokes,BTC,TKS
+None,2017-03-27T19:59:13.073,211.86440678,None,Bitcoin,BTC-MUSIC,True,https://bittrexblobstorage.blob.core.windows.net/public/896b307f-449f-47e8-b8e4-9271a13b63e8.png,Musicoin,BTC,MUSIC
+None,2017-04-01T04:06:13.887,7.73874013,None,Bitcoin,BTC-DTB,True,https://bittrexblobstorage.blob.core.windows.net/public/d93d80fb-325f-41ee-8227-38a74fdd00e6.png,Databits,BTC,DTB
+None,2017-04-04T21:20:51.083,21.13271344,None,Bitcoin,BTC-INCNT,True,https://bittrexblobstorage.blob.core.windows.net/public/239b1c5f-15cc-4d0a-ac1c-9416f89d8bf2.png,Incent,BTC,INCNT
+None,2017-04-13T20:46:39.83,0.01302961,None,Bitcoin,BTC-GBYTE,True,https://bittrexblobstorage.blob.core.windows.net/public/04c0b782-8627-49b0-b30a-6ef81be8393a.png,Bytes,BTC,GBYTE
+None,2017-04-17T21:35:59.26,12.99038711,None,Bitcoin,BTC-GNT,True,https://bittrex.com/Content/img/symbols/BTC.png,Golem,BTC,GNT
+None,2017-04-17T22:51:08.97,24.33090024,None,Bitcoin,BTC-NXC,True,https://bittrex.com/Content/img/symbols/BTC.png,Nexium,BTC,NXC
+None,2017-04-18T00:56:59.243,2.41826272,None,Bitcoin,BTC-EDG,True,https://bittrexblobstorage.blob.core.windows.net/public/9a72a22f-c987-47df-a609-987bf6ff0039.png,Edgeless,BTC,EDG
+None,2017-04-18T07:37:41.3,6.5824118,None,Bitcoin,BTC-LGD,True,https://bittrexblobstorage.blob.core.windows.net/public/fd91d001-0b05-4d3f-a863-4d7845e7b3f3.png,Legends,BTC,LGD
+None,2017-04-19T04:53:43.893,16.1498708,None,Bitcoin,BTC-TRST,True,https://bittrexblobstorage.blob.core.windows.net/public/4438712f-ac8b-4c75-8931-03a143af6834.png,Trustcoin,BTC,TRST
+None,2017-04-20T06:38:51.877,24.92211838,None,Ethereum,ETH-GNT,True,https://bittrex.com/Content/img/symbols/BTC.png,Golem,ETH,GNT
+None,2017-04-20T06:43:49.19,0.21052629,None,Ethereum,ETH-REP,True,https://bittrexblobstorage.blob.core.windows.net/public/cb9a7857-2c08-44e4-b6a9-c8248bb5a927.png,Augur,ETH,REP
+None,2017-04-20T17:26:37.647,0.01545595,None,Tether,USDT-ETH,True,https://bittrexblobstorage.blob.core.windows.net/public/7e5638ef-8ca0-404d-b61e-9d41c2e20dd9.png,Ethereum,USDT,ETH
+None,2017-04-26T22:16:06.627,17.02287023,None,Ethereum,ETH-WINGS,True,https://bittrexblobstorage.blob.core.windows.net/public/87f3ff9d-9808-4567-b01f-ad27c2d83002.png,Wings DAO,ETH,WINGS
+None,2017-04-26T22:34:24.49,8.64603147,None,Bitcoin,BTC-WINGS,True,https://bittrexblobstorage.blob.core.windows.net/public/87f3ff9d-9808-4567-b01f-ad27c2d83002.png,Wings DAO,BTC,WINGS
+None,2017-04-27T00:20:33.857,8.03212851,None,Bitcoin,BTC-RLC,True,https://bittrexblobstorage.blob.core.windows.net/public/b0a02aa0-6586-4398-8369-0650d0492bb3.png,iEx.ec,BTC,RLC
+None,2017-04-28T02:43:12,0.04464286,None,Bitcoin,BTC-GNO,True,https://bittrexblobstorage.blob.core.windows.net/public/d0578ca8-9121-4bd6-bd5d-6cf7c239bf7f.png,Gnosis,BTC,GNO
+None,2017-04-29T18:08:12.39,13.70989855,None,Bitcoin,BTC-GUP,True,https://bittrexblobstorage.blob.core.windows.net/public/b084122e-0cda-4abc-82b2-313f6da7d36b.png,Guppy,BTC,GUP
+None,2017-04-30T16:57:03.27,0.87719298,None,Bitcoin,BTC-LUN,True,https://bittrexblobstorage.blob.core.windows.net/public/559d7f54-6baf-43db-8b26-190f7b2e7746.png,Lunyr,BTC,LUN
+None,2017-04-30T18:40:42.213,26.11511543,None,Ethereum,ETH-GUP,True,https://bittrexblobstorage.blob.core.windows.net/public/b084122e-0cda-4abc-82b2-313f6da7d36b.png,Guppy,ETH,GUP
+None,2017-04-30T18:41:22.823,15.38461538,None,Ethereum,ETH-RLC,True,https://bittrexblobstorage.blob.core.windows.net/public/b0a02aa0-6586-4398-8369-0650d0492bb3.png,iEx.ec,ETH,RLC
+None,2017-04-30T18:41:22.84,1.66632229,None,Ethereum,ETH-LUN,True,https://bittrexblobstorage.blob.core.windows.net/public/559d7f54-6baf-43db-8b26-190f7b2e7746.png,Lunyr,ETH,LUN
+None,2017-04-30T18:42:52.17,0.08152012,None,Ethereum,ETH-GNO,True,https://bittrexblobstorage.blob.core.windows.net/public/d0578ca8-9121-4bd6-bd5d-6cf7c239bf7f.png,Gnosis,ETH,GNO
+None,2017-05-02T06:26:32.897,0.57830211,None,Bitcoin,BTC-APX,True,https://bittrexblobstorage.blob.core.windows.net/public/ccb2ee6f-cc15-4b9c-8da5-880a797b29ff.png,Apx,BTC,APX
+None,2017-05-10T00:02:47.373,25.57544757,None,Bitcoin,BTC-HMQ,True,https://bittrexblobstorage.blob.core.windows.net/public/19d1aebe-d2e6-4a65-aa19-13c00214a4b1.png,Humaniq,BTC,HMQ
+None,2017-05-10T07:27:27.597,46.56794263,None,Ethereum,ETH-HMQ,True,https://bittrexblobstorage.blob.core.windows.net/public/19d1aebe-d2e6-4a65-aa19-13c00214a4b1.png,Humaniq,ETH,HMQ
+None,2017-05-17T19:54:30.143,2.42330248,None,Bitcoin,BTC-ANT,True,https://bittrexblobstorage.blob.core.windows.net/public/a092a872-2de3-4898-88c4-275aaf6caea2.png,Aragon,BTC,ANT
+None,2017-05-19T15:55:11.28,30.16682253,None,Ethereum,ETH-TRST,True,https://bittrexblobstorage.blob.core.windows.net/public/4438712f-ac8b-4c75-8931-03a143af6834.png,Trustcoin,ETH,TRST
+None,2017-05-19T15:55:11.293,4.60829493,None,Ethereum,ETH-ANT,True,https://bittrexblobstorage.blob.core.windows.net/public/a092a872-2de3-4898-88c4-275aaf6caea2.png,Aragon,ETH,ANT
+None,2017-05-22T21:30:29.16,352.11267606,None,Bitcoin,BTC-SC,True,https://bittrexblobstorage.blob.core.windows.net/public/f39f5155-9c9a-4b67-9a8a-71477962683f.png,Siacoin,BTC,SC
+None,2017-06-03T22:04:52.38,44.36950927,None,Ethereum,ETH-BAT,True,https://bittrexblobstorage.blob.core.windows.net/public/d6477923-f199-4985-aef4-744d7267ee66.png,Basic Attention Token,ETH,BAT
+None,2017-06-03T22:04:53.82,22.96738631,None,Bitcoin,BTC-BAT,True,https://bittrexblobstorage.blob.core.windows.net/public/d6477923-f199-4985-aef4-744d7267ee66.png,Basic Attention Token,BTC,BAT
+None,2017-06-05T16:39:49.07,0.16349326,None,Bitcoin,BTC-ZEN,True,https://bittrexblobstorage.blob.core.windows.net/public/ca8f3f53-9bb1-4571-9354-ce3bfc4e6c25.png,Zencash,BTC,ZEN
+None,2017-06-06T01:22:35.727,11.49425287,None,Bitcoin,BTC-1ST,True,https://bittrexblobstorage.blob.core.windows.net/public/5685a7be-1edf-4ba0-a313-b5309bb204f8.png,FirstBlood,BTC,1ST
+None,2017-06-10T00:01:39.293,4.3429167,None,Bitcoin,BTC-QRL,True,https://bittrexblobstorage.blob.core.windows.net/public/e9397d04-24ea-4576-b4d2-db27fe1bca14.png,Quantum Resistant Ledger,BTC,QRL
+None,2017-06-11T17:33:06.127,21.27659574,None,Ethereum,ETH-1ST,True,https://bittrexblobstorage.blob.core.windows.net/public/5685a7be-1edf-4ba0-a313-b5309bb204f8.png,Firstblood,ETH,1ST
+None,2017-06-11T17:33:06.14,8.37748969,None,Ethereum,ETH-QRL,True,https://bittrexblobstorage.blob.core.windows.net/public/e9397d04-24ea-4576-b4d2-db27fe1bca14.png,Quantum Resistant Ledger,ETH,QRL
+None,2017-06-13T19:40:35.203,17.24137931,None,Bitcoin,BTC-CRB,True,https://bittrexblobstorage.blob.core.windows.net/public/254f5ca1-6648-4c8d-ac5d-2bae16e909bf.png,CreditBit,BTC,CRB
+None,2017-06-13T19:40:35.217,30.92385002,None,Ethereum,ETH-CRB,True,https://bittrexblobstorage.blob.core.windows.net/public/254f5ca1-6648-4c8d-ac5d-2bae16e909bf.png,CreditBit,ETH,CRB
+None,2017-06-17T15:02:02.783,12.47637287,None,Ethereum,ETH-LGD,True,https://bittrexblobstorage.blob.core.windows.net/public/fd91d001-0b05-4d3f-a863-4d7845e7b3f3.png,Legends,ETH,LGD
+None,2017-06-18T17:04:24.1,15.86294416,None,Bitcoin,BTC-PTOY,True,https://bittrexblobstorage.blob.core.windows.net/public/ed225f90-059d-4390-aec1-42e83156bbb2.png,Patientory,BTC,PTOY
+None,2017-06-18T17:04:24.147,30.01335594,None,Ethereum,ETH-PTOY,True,https://bittrexblobstorage.blob.core.windows.net/public/ed225f90-059d-4390-aec1-42e83156bbb2.png,Patientory,ETH,PTOY
+None,2017-06-19T19:13:43.73,5.53097345,None,Bitcoin,BTC-MYST,True,https://bittrexblobstorage.blob.core.windows.net/public/4b14fac0-d56d-4141-8da6-326d2ab886c6.png,Mysterium,BTC,MYST
+None,2017-06-19T19:13:43.743,10.69004223,None,Ethereum,ETH-MYST,True,https://bittrexblobstorage.blob.core.windows.net/public/4b14fac0-d56d-4141-8da6-326d2ab886c6.png,Mysterium,ETH,MYST
+None,2017-06-19T19:59:14.78,41.7710944,None,Bitcoin,BTC-CFI,True,https://bittrexblobstorage.blob.core.windows.net/public/ddc4fc5b-1ca3-4ff0-ad55-ed50f1b175f1.png,Cofound.it,BTC,CFI
+None,2017-06-19T19:59:14.89,78.52375344,None,Ethereum,ETH-CFI,True,https://bittrexblobstorage.blob.core.windows.net/public/ddc4fc5b-1ca3-4ff0-ad55-ed50f1b175f1.png,Cofound.it,ETH,CFI
+None,2017-06-22T21:36:30.85,1.83089824,None,Bitcoin,BTC-BNT,True,https://bittrexblobstorage.blob.core.windows.net/public/a1aebad7-71ad-453c-9de7-25a59a3596d4.png,Bancor,BTC,BNT
+None,2017-06-22T21:36:30.867,3.47369975,None,Ethereum,ETH-BNT,True,https://bittrexblobstorage.blob.core.windows.net/public/a1aebad7-71ad-453c-9de7-25a59a3596d4.png,Bancor,ETH,BNT
+None,2017-06-22T21:58:57.657,0.30106879,None,Bitcoin,BTC-NMR,True,https://bittrexblobstorage.blob.core.windows.net/public/b3e860db-65a8-455c-a954-23439b96d390.png,Numeraire,BTC,NMR
+None,2017-06-22T21:58:57.657,0.55354143,None,Ethereum,ETH-NMR,True,https://bittrexblobstorage.blob.core.windows.net/public/b3e860db-65a8-455c-a954-23439b96d390.png,Numeraire,ETH,NMR
+None,2017-06-25T03:06:46.83,0.05037883,None,Ethereum,ETH-LTC,True,https://bittrexblobstorage.blob.core.windows.net/public/6defbc41-582d-47a6-bb2e-d0fa88663524.png,Litecoin,ETH,LTC
+None,2017-06-25T03:07:09.677,12.65438348,None,Ethereum,ETH-XRP,True,https://bittrexblobstorage.blob.core.windows.net/public/8101e36e-bfce-48a9-a7a6-368b6e9452dd.png,Ripple,ETH,XRP
+None,2017-06-28T18:26:15.73,48.4496124,None,Bitcoin,BTC-SNT,True,https://bittrexblobstorage.blob.core.windows.net/public/52f9dfc9-05ea-49ba-8597-4179bf0c6345.png,Status Network Token,BTC,SNT
+None,2017-06-28T18:26:15.747,93.21401939,None,Ethereum,ETH-SNT,True,https://bittrexblobstorage.blob.core.windows.net/public/52f9dfc9-05ea-49ba-8597-4179bf0c6345.png,Status Network Token,ETH,SNT
+None,2017-06-30T16:35:24.643,8.19672131,None,Bitcoin,BTC-DCT,True,https://bittrexblobstorage.blob.core.windows.net/public/986a5ad2-5231-44d2-8fb8-32ad629e2709.png,DECENT,BTC,DCT
+None,2017-07-01T17:38:44.883,13.93534002,None,Bitcoin,BTC-XEL,True,https://bittrexblobstorage.blob.core.windows.net/public/13ffc393-5f0d-491f-9942-cd664c1f0459.png,Elastic,BTC,XEL
+None,2017-07-02T00:37:16.957,0.51062092,None,Bitcoin,BTC-MCO,True,https://bittrexblobstorage.blob.core.windows.net/public/582b0dc7-5c04-4a2a-b450-c8488799cbd6.png,Monaco,BTC,MCO
+None,2017-07-02T00:37:17.05,0.95238095,None,Ethereum,ETH-MCO,True,https://bittrexblobstorage.blob.core.windows.net/public/582b0dc7-5c04-4a2a-b450-c8488799cbd6.png,Monaco,ETH,MCO
+None,2017-07-03T21:08:06.11,140.05602241,None,Bitcoin,BTC-ADT,True,https://bittrexblobstorage.blob.core.windows.net/public/7233857e-b6e0-4e91-a8f6-9e7e36152b1e.png,adToken,BTC,ADT
+None,2017-07-03T21:08:06.22,250.06251563,None,Ethereum,ETH-ADT,True,https://bittrexblobstorage.blob.core.windows.net/public/7233857e-b6e0-4e91-a8f6-9e7e36152b1e.png,adToken,ETH,ADT
+None,2017-07-04T18:45:47.13,142.04545455,None,Bitcoin,BTC-FUN,True,https://bittrexblobstorage.blob.core.windows.net/public/15870ba6-ec5a-4261-8ee2-15e005536a71.png,FunFair,BTC,FUN
+None,2017-07-04T18:45:47.143,270.27027027,None,Ethereum,ETH-FUN,True,https://bittrexblobstorage.blob.core.windows.net/public/15870ba6-ec5a-4261-8ee2-15e005536a71.png,FunFair,ETH,FUN
+None,2017-07-07T07:14:00.793,2.30096641,None,Bitcoin,BTC-PAY,True,https://bittrexblobstorage.blob.core.windows.net/public/c39a72fc-848e-4302-80c8-836a35c6ef99.png,TenX Pay Token,BTC,PAY
+None,2017-07-07T07:14:00.873,4.43696077,None,Ethereum,ETH-PAY,True,https://bittrexblobstorage.blob.core.windows.net/public/c39a72fc-848e-4302-80c8-836a35c6ef99.png,TenX Pay Token,ETH,PAY
+None,2017-07-08T14:59:57.34,0.83085462,None,Bitcoin,BTC-MTL,True,https://bittrexblobstorage.blob.core.windows.net/public/2a6c2ef0-7e54-489b-97f9-7e1c847500d5.png,Metal,BTC,MTL
+None,2017-07-08T14:59:57.37,1.6,None,Ethereum,ETH-MTL,True,https://bittrexblobstorage.blob.core.windows.net/public/2a6c2ef0-7e54-489b-97f9-7e1c847500d5.png,Metal,ETH,MTL
+None,2017-07-11T21:14:32.643,5.73065903,None,Bitcoin,BTC-STORJ,True,https://bittrexblobstorage.blob.core.windows.net/public/605a8ce1-3ac8-44f3-b342-73cb842a120e.png,Storj,BTC,STORJ
+None,2017-07-11T21:14:32.643,11.11074075,None,Ethereum,ETH-STORJ,True,https://bittrexblobstorage.blob.core.windows.net/public/605a8ce1-3ac8-44f3-b342-73cb842a120e.png,Storj,ETH,STORJ
+None,2017-07-11T22:42:17.78,4.12847824,None,Bitcoin,BTC-ADX,True,https://bittrexblobstorage.blob.core.windows.net/public/75fe532b-ba7f-483a-a377-4c2b56517224.png,AdEx,BTC,ADX
+None,2017-07-11T22:42:17.78,7.56412487,None,Ethereum,ETH-ADX,True,https://bittrexblobstorage.blob.core.windows.net/public/75fe532b-ba7f-483a-a377-4c2b56517224.png,AdEx,ETH,ADX
+None,2017-07-14T17:10:05.143,0.01127179,None,Ethereum,ETH-DASH,True,https://bittrexblobstorage.blob.core.windows.net/public/49993d38-d344-4197-b449-c50c3cc13d47.png,Dash,ETH,DASH
+None,2017-07-14T17:10:07.74,660.93853272,None,Ethereum,ETH-SC,True,https://bittrexblobstorage.blob.core.windows.net/public/f39f5155-9c9a-4b67-9a8a-71477962683f.png,Siacoin,ETH,SC
+None,2017-07-14T17:10:07.8,0.02524998,None,Ethereum,ETH-ZEC,True,https://bittrexblobstorage.blob.core.windows.net/public/db51f5f5-3728-4e12-b32f-ea3f4825038b.png,ZCash,ETH,ZEC
+None,2017-07-14T17:10:10.673,0.01968504,None,Tether,USDT-ZEC,True,https://bittrexblobstorage.blob.core.windows.net/public/db51f5f5-3728-4e12-b32f-ea3f4825038b.png,ZCash,USDT,ZEC
+None,2017-07-14T17:10:10.72,0.03965107,None,Tether,USDT-LTC,True,https://bittrexblobstorage.blob.core.windows.net/public/6defbc41-582d-47a6-bb2e-d0fa88663524.png,Litecoin,USDT,LTC
+None,2017-07-14T17:10:10.72,0.34870203,None,Tether,USDT-ETC,True,https://bittrexblobstorage.blob.core.windows.net/public/efc96992-1993-4a91-84cf-c04fea919788.png,Ethereum Classic,USDT,ETC
+None,2017-07-14T17:10:10.737,9.70873786,None,Tether,USDT-XRP,True,https://bittrexblobstorage.blob.core.windows.net/public/8101e36e-bfce-48a9-a7a6-368b6e9452dd.png,Ripple,USDT,XRP
+None,2017-07-16T17:07:42.313,0.51064699,None,Bitcoin,BTC-OMG,True,https://bittrexblobstorage.blob.core.windows.net/public/67b5fabb-dc86-43ac-994c-86b84c331170.png,OmiseGO,BTC,OMG
+None,2017-07-16T17:07:42.41,0.9714996,None,Ethereum,ETH-OMG,True,https://bittrexblobstorage.blob.core.windows.net/public/67b5fabb-dc86-43ac-994c-86b84c331170.png,OmiseGO,ETH,OMG
+None,2017-07-16T23:04:18.867,12.47193814,None,Bitcoin,BTC-CVC,True,https://bittrexblobstorage.blob.core.windows.net/public/66dbf09a-ecfe-4638-b060-d7beeb2ea62e.png,Civic,BTC,CVC
+None,2017-07-16T23:04:18.99,23.41810688,None,Ethereum,ETH-CVC,True,https://bittrexblobstorage.blob.core.windows.net/public/66dbf09a-ecfe-4638-b060-d7beeb2ea62e.png,Civic,ETH,CVC
+None,2017-07-20T18:19:07.157,0.64018027,None,Bitcoin,BTC-PART,True,https://bittrexblobstorage.blob.core.windows.net/public/fd2ae528-15f2-430d-9917-d22027736fc3.png,Particl,BTC,PART
+None,2017-07-20T19:08:43.473,0.16123311,False,Bitcoin,BTC-QTUM,True,https://bittrexblobstorage.blob.core.windows.net/public/d2722d80-adb4-4a3d-adac-a75e7d2edd51.png,Qtum,BTC,QTUM
+None,2017-07-20T19:08:43.473,0.30238892,False,Ethereum,ETH-QTUM,True,https://bittrexblobstorage.blob.core.windows.net/public/d2722d80-adb4-4a3d-adac-a75e7d2edd51.png,Qtum,ETH,QTUM
+None,2017-07-21T01:08:49.367,0.03933336,None,Ethereum,ETH-XMR,True,https://bittrexblobstorage.blob.core.windows.net/public/efcda24e-c6c3-4029-982c-15af2915fb08.png,Monero,ETH,XMR
+None,2017-07-21T01:08:49.38,16.04080782,None,Ethereum,ETH-XEM,True,https://bittrex.com/Content/img/symbols/BTC.png,NewEconomyMovement,ETH,XEM
+None,2017-07-21T01:08:49.38,60.06006006,None,Ethereum,ETH-XLM,True,https://bittrexblobstorage.blob.core.windows.net/public/c41db2ef-2635-4438-a1c1-0a680c8857e1.png,Lumen,ETH,XLM
+None,2017-07-21T01:08:49.397,0.22542326,None,Ethereum,ETH-NEO,True,https://bittrexblobstorage.blob.core.windows.net/public/ed823972-8cfd-4f1f-a91d-f638ba20bf02.png,Neo,ETH,NEO
+None,2017-07-21T01:08:49.397,0.03025688,None,Tether,USDT-XMR,True,https://bittrexblobstorage.blob.core.windows.net/public/efcda24e-c6c3-4029-982c-15af2915fb08.png,Monero,USDT,XMR
+None,2017-07-21T01:08:49.413,0.00876424,None,Tether,USDT-DASH,True,https://bittrexblobstorage.blob.core.windows.net/public/49993d38-d344-4197-b449-c50c3cc13d47.png,Dash,USDT,DASH
+None,2017-08-01T18:34:04.763,0.00508468,None,Ethereum,ETH-BCC,True,https://bittrex.com/Content/img/symbols/BTC.png,Bitcoin Cash,ETH,BCC
+None,2017-08-01T18:34:04.873,0.00394477,None,Tether,USDT-BCC,True,https://bittrex.com/Content/img/symbols/BTC.png,Bitcoin Cash,USDT,BCC
+None,2017-08-01T18:34:04.967,0.00268817,None,Bitcoin,BTC-BCC,True,https://bittrex.com/Content/img/symbols/BTC.png,Bitcoin Cash,BTC,BCC
+None,2017-08-04T02:09:02.873,80.64516129,None,Bitcoin,BTC-DNT,True,https://i.imgur.com/qCKl8Mx.png,district0x,BTC,DNT
+None,2017-08-04T02:09:02.887,157.158573,None,Ethereum,ETH-DNT,True,https://bittrex.com/Content/img/symbols/BTC.png,district0x,ETH,DNT
+None,2017-08-04T16:58:43.087,0.17243181,None,Tether,USDT-NEO,True,https://bittrexblobstorage.blob.core.windows.net/public/ed823972-8cfd-4f1f-a91d-f638ba20bf02.png,Neo,USDT,NEO
+None,2017-08-04T18:00:50.15,1.05005673,None,Ethereum,ETH-WAVES,True,https://bittrexblobstorage.blob.core.windows.net/public/50dddb89-d30b-4515-b91b-5842f9dbe1fd.png,Waves,ETH,WAVES
+None,2017-08-04T18:01:27.713,1.31578861,None,Ethereum,ETH-STRAT,True,https://bittrexblobstorage.blob.core.windows.net/public/74083684-8817-4e0e-9107-7fcc129f4e73.png,Stratis,ETH,STRAT
+None,2017-08-04T18:01:27.777,312.79324367,None,Ethereum,ETH-DGB,True,https://bittrexblobstorage.blob.core.windows.net/public/f71e4e1a-9249-47a0-b4d0-53afa08ccbc3.png,Digibyte,ETH,DGB
+None,2017-08-04T18:01:27.853,0.4,None,Ethereum,ETH-FCT,True,https://bittrexblobstorage.blob.core.windows.net/public/2478893a-5e5d-469e-81bd-e351195858d9.png,Factom,ETH,FCT
+None,2017-09-15T23:49:44.83,0.76220124,None,Tether,USDT-OMG,True,https://bittrex.com/Content/img/symbols/BTC.png,OmiseGo,USDT,OMG
+None,2017-09-29T07:01:58.873,16.96640652,None,Bitcoin,BTC-ADA,True,https://bittrexblobstorage.blob.core.windows.net/public/0f3f4789-b356-4091-a006-3761ed41c8bd.png,Ada,BTC,ADA
+None,2017-10-13T23:32:02.993,78.49293564,None,Bitcoin,BTC-MANA,True,https://bittrexblobstorage.blob.core.windows.net/public/76326b48-fe5a-45c3-8818-8d06d79c498f.png,Decentraland,BTC,MANA
+None,2017-10-13T23:32:03.027,149.5215311,None,Ethereum,ETH-MANA,True,https://bittrexblobstorage.blob.core.windows.net/public/76326b48-fe5a-45c3-8818-8d06d79c498f.png,Decentraland,ETH,MANA
+None,2017-10-16T17:32:48.777,0.78438755,None,Bitcoin,BTC-SALT,True,https://bittrexblobstorage.blob.core.windows.net/public/973ec311-98b4-483f-b0c1-7586c4d5601e.png,Salt,BTC,SALT
+None,2017-10-16T17:32:48.84,1.48486367,None,Ethereum,ETH-SALT,True,https://bittrexblobstorage.blob.core.windows.net/public/973ec311-98b4-483f-b0c1-7586c4d5601e.png,Salt,ETH,SALT
+None,2017-10-25T21:01:08.287,7.14285714,None,Bitcoin,BTC-TIX,True,https://bittrexblobstorage.blob.core.windows.net/public/6f96c101-30a6-4d22-88c2-fe0e2ae9ae1f.png,Blocktix,BTC,TIX
+None,2017-10-25T21:01:08.287,13.38320809,None,Ethereum,ETH-TIX,True,https://bittrexblobstorage.blob.core.windows.net/public/6f96c101-30a6-4d22-88c2-fe0e2ae9ae1f.png,Blocktix,ETH,TIX
+None,2017-11-07T07:59:10.913,37.99392097,None,Bitcoin,BTC-RCN,True,https://bittrexblobstorage.blob.core.windows.net/public/157a3e77-0b2d-4a71-a95a-4f6e4dd41a2d.png,Ripio Credit Network,BTC,RCN
+None,2017-11-07T07:59:10.93,73.66482505,None,Ethereum,ETH-RCN,True,https://bittrexblobstorage.blob.core.windows.net/public/157a3e77-0b2d-4a71-a95a-4f6e4dd41a2d.png,Ripio Credit Network,ETH,RCN
+None,2017-11-08T17:08:42.997,13.6425648,None,Bitcoin,BTC-VIB,True,https://bittrex.com/Content/img/symbols/BTC.png,Viberate,BTC,VIB
+None,2017-11-08T17:08:43.01,26.104208,None,Ethereum,ETH-VIB,True,https://bittrex.com/Content/img/symbols/BTC.png,Viberate,ETH,VIB
+None,2017-11-13T23:42:26.193,11.51543068,None,Bitcoin,BTC-MER,True,https://bittrexblobstorage.blob.core.windows.net/public/d20660ac-0938-43d8-bf35-11561736ef16.png,Mercury,BTC,MER
+None,2017-11-14T00:31:01.76,7.81372089,None,Bitcoin,BTC-POWR,True,https://bittrexblobstorage.blob.core.windows.net/public/fd933f1f-be34-423d-ad4b-ddbdbaab763f.png,PowerLedger,BTC,POWR
+None,2017-11-14T00:31:01.76,14.75045911,None,Ethereum,ETH-POWR,True,https://bittrexblobstorage.blob.core.windows.net/public/fd933f1f-be34-423d-ad4b-ddbdbaab763f.png,PowerLedger,ETH,POWR
+None,2017-11-20T21:49:15.983,0.02555597,None,Bitcoin,BTC-BTG,True,https://bittrex.com/Content/img/symbols/BTC.png,Bitcoin Gold,BTC,BTG
+None,2017-11-20T21:49:16,0.04761911,None,Ethereum,ETH-BTG,True,https://bittrex.com/Content/img/symbols/BTC.png,Bitcoin Gold,ETH,BTG
+None,2017-11-21T19:17:29.543,0.03757986,None,Tether,USDT-BTG,True,https://bittrex.com/Content/img/symbols/BTC.png,Bitcoin Gold,USDT,BTG
+None,2017-11-28T17:28:32.077,31.78033433,None,Ethereum,ETH-ADA,True,https://bittrex.com/Content/img/symbols/BTC.png,Ada,ETH,ADA
+None,2017-11-29T23:57:48.243,6.76773146,None,Bitcoin,BTC-ENG,True,https://bittrexblobstorage.blob.core.windows.net/public/a7cb51db-1e6d-47f5-89b5-afbfc766b01b.png,Enigma,BTC,ENG
+None,2017-11-29T23:57:48.26,13.06241877,None,Ethereum,ETH-ENG,True,https://bittrexblobstorage.blob.core.windows.net/public/a7cb51db-1e6d-47f5-89b5-afbfc766b01b.png,Enigma,ETH,ENG
